@@ -1,17 +1,17 @@
 # RIA CRM System
 
-## Описание
-CRM-система для автоматизации работы сотрудников, управления базой данных клиентов, должностей и другой справочной информации. 
-Была разработана в рамках дипломного проекта.
+## Description
+A CRM system designed to automate employee workflows and manage a database of clients, job positions, and other reference information.  
+Developed as part of a diploma project.
 
-## Особенности
-- Хранение данных в базе данных SQL Server
-- WinForms-приложение для взаимодействия с системой
-- Простой интерфейс авторизации и доступа по ролям
-- Работа с таблицами: Сотрудники, Должности и т.д.
-- Чат реализованный через TCP сервер.
+## Features
+- Data storage using SQL Server
+- WinForms application for interacting with the system
+- Simple login interface with role-based access
+- Work with tables: Employees, Job Positions, etc.
+- Built-in chat implemented via a TCP server
 
-## Технологии
-- C# / .NET
-- WinForms
+## Technologies
+- C# / .NET  
+- WinForms  
 - SQL Server
